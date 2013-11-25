@@ -1,8 +1,8 @@
-#summary One-sentence summary of this page.
+Calculating the sensitivities of LCC to EIS and SST.
 
 = Introduction =
 
-To understand the spread in LCC response to climate change in 18 CMIP5 models, we hypothesize that the estimated inversion strength (EIS) and SST are the most important factors shaping the LCC response. We then quantify the contribution of EIS or SST to simulated LCC changes by the product of anthropogenic changes in EIS or SST and a local LCC sensitivity to it. Below, we describe how the sensitivities are calculated. 
+To understand the spread in LCC response to climate change in 18 CMIP5 models, we hypothesize that the estimated inversion strength (EIS) and sea surface temperature (SST) are the most important factors shaping the LCC response. We then quantify the contribution of EIS or SST to simulated LCC changes by the product of anthropogenic changes in EIS or SST and a local LCC sensitivity to it. Below, we describe how the sensitivities are calculated. 
 
 
 = Details =
