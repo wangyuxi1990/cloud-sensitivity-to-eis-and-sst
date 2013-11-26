@@ -9,6 +9,8 @@ To understand the spread in LCC response to climate change in 18 CMIP5 models, w
 
 EIS and SST sensitivities are computed based on simulated interannual climate variability in the 20th-century as follows. First, we compute the annual-mean time series of LCC, EIS and SST for each of the five regions dominated by low clouds. Then, we remove the long-term trend from each time series. Finally, we regress the LCC time series onto either the EIS or SST series. A complicating factor is that EIS and SST time series are not independent. To eliminate the potential ambiguity of EIS-SST covariance in the EIS sensitivity estimate, we remove the components of LCC and EIS variations that are linearly related to SST variations by regression analysis before then regression LCC on to EIS. Likewise, we remove the components of LCC and SST variations that are linearly related to EIS variations before estimating the SST slope.  
 
+http://www.atmos.ucla.edu/csrl/EIS-SST-sensitivities.jpeg
+
 Reference
 
 Qu X, Hall A, Klein SA, Caldwell PM (2013) On the spread of changes in marine low cloud cover in climate model simulations of the 21st century. Climate Dynamics. 10.1007/s00382-013-1945-z.
