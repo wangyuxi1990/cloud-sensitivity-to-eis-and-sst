@@ -1,4 +1,4 @@
-Calculating the sensitivities of LCC to EIS and SST.
+*bold* Calculating the sensitivities of LCC to EIS and SST.
 
 = Introduction =
 
